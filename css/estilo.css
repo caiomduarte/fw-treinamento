@@ -1,0 +1,107 @@
+#comecar {
+    float: left;
+	margin-left: 470px;
+}
+
+#painel-aulas{
+
+width: 1100px;
+margin-left: -50px;
+text-align: center;
+
+}
+
+.aula{
+	width: 290px;
+	height: 269px;
+	float: left;
+	
+
+
+}
+.aula:hover{
+	background: #DDDDDD;
+
+}
+
+.aula img{
+  width: 290px;
+  height: 140px;
+  padding: 5px;
+
+}
+
+.nome{
+	font-size: 15px;
+	font-family: arial;
+	font-weight: bold;
+	text-align: center;
+
+}
+
+#comentarios{
+
+	width: 1300px;
+	
+	float: left;
+	margin-left: 50px;
+	margin-bottom: 40px;
+}
+
+#foto-usuario{
+
+	float: left;
+	width: 100px;
+	height: 100px;
+	margin-left: 100px;
+	margin-top: 40px;
+}
+
+#usuario-comentario{
+    float:left;
+    margin-top: -20px;
+    font-size: 20px;
+}
+
+#texto-comentario{
+	float: left;
+	width: 1000px;
+	
+	margin-top: -30px;
+	padding: 0 auto;
+
+}
+
+#data-comentario{
+   float:right;
+   margin-right: 150px;
+   margin-top: -55px;
+   text-align: right;
+}
+
+#linha{
+	float: left;
+	height: 2px;
+	width: 1080px;
+	background: #CCCCCC;
+	margin-left:100px;	
+	margin-top: -15px;
+}
+
+#form-comentario{
+	float: left;
+	margin-left: 130px;
+	margin-bottom: 20px;
+
+}
+
+#area-usuario{
+
+
+	float:left;
+	margin-left: 230px;
+	margin-top: -200px;
+
+
+
+}
